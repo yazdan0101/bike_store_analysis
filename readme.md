@@ -47,11 +47,8 @@ These are loaded into an SQLite database and used to simulate realistic retail s
 
 ## 🚀 How to Run
 
-1. Clone this repo:
-
 ```bash
 git clone https://github.com/YOUR_USERNAME/bike-store-analysis.git
 cd bike-store-analysis
-2. Install the dependencies
-```bash
 pip install requirements.text
+jupyter notebook
